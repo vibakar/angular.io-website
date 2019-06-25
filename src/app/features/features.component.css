@@ -1,0 +1,36 @@
+section {
+	width: 80%;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+
+mat-grid-list {
+	padding-bottom: 200px !important;
+}
+
+mat-grid-tile {
+	padding-top: 150px !important;
+}
+
+.center {
+	text-align: center;
+}
+
+.center h1 {
+	margin: 0px;
+	font-size: 20px;
+    font-weight: 500;
+    color: #1976d2;
+    text-transform: uppercase;
+}
+
+.logo {
+	height: 70px;
+	width: 70px;
+	margin-top: 15px;
+}
+
+mat-grid-tile p {
+	color: #444;
+	letter-spacing: .3px;
+}

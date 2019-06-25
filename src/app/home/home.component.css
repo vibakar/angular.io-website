@@ -1,0 +1,39 @@
+.banner-section {
+	background-color: #1976d2;
+}
+
+.banner-section .inner-section {
+	width: 70%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.banner-section .logo, .content-section .logo {
+	height: 250px;
+	width: 250px;
+}
+
+.banner-section .heading {
+	color: white;
+	font-size: 35px;
+}
+
+hr {
+	background-color: #DBDBDB;
+}
+
+.content-section {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.content-section .title {
+	color: #1976d2;
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.content {
+	color: #444;
+	letter-spacing: .3px
+}

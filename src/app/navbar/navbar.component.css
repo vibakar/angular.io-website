@@ -1,0 +1,23 @@
+mat-toolbar {
+	background-color: #1976d2;
+}
+
+.logo {
+	height: 40px;
+	width: 150px;
+}
+
+.ml-10 {
+	margin-left: 10px;
+}
+
+a {
+	color: white;
+	font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.activeLink {
+	background-color: #1e88e5;
+}
